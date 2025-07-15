@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I'm Surafel
 
-<!--
-**surafelbkassa/surafelbkassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring backend engineer, fast-moving builder & opportunity scanner  
+🌍 From Addis Ababa | 🌱 Currently mastering Go + system design via A2SV  
+🎯 On a mission: Become globally dangerous & financially free before 30
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=go,nodejs,js,ts,react,express,postgres,mysql,mongodb,git,html,css,linux)
+
+---
+
+### 📊 GitHub Stats
+
+![Surafel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surafelbkassa&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surafelbkassa&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📫 Reach Me
+- Telegram: [@surafelbkassa](https://t.me/surafelbkassa)
+- LinkedIn: [Surafel Belachew](https://linkedin.com/in/surafel-belachew-1035772a6)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surafelbkassa&left_color=gray&right_color=blue)
