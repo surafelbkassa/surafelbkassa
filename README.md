@@ -2,7 +2,7 @@
 
 🚀 Aspiring backend engineer, fast-moving builder & opportunity scanner  
 🌍 From Addis Ababa | 🌱 Currently mastering Go + system design via A2SV  
-🎯 On a mission: Become globally dangerous & financially free before 30
+🎯 Focused on solving high-value problems and building a future of freedom through code and execution.
 
 ---
 
