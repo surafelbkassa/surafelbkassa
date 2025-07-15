@@ -1,0 +1,15 @@
+name: Update README with recent GitHub activity
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: surafelbkassa
