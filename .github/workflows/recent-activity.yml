@@ -10,6 +10,6 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: readme-actions/recent-activity@v1
+      - uses: readme-actions/recent-activity@v2.3.1
         with:
           GH_USERNAME: surafelbkassa
