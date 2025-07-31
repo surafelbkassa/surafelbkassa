@@ -10,6 +10,7 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: readme-actions/recent-activity@v2.3.1
-        with:
-          GH_USERNAME: surafelbkassa
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@v2.3.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
