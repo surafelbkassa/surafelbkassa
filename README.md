@@ -18,13 +18,6 @@
 
 ---
 
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### 📫 Reach Me
 - Telegram: [@surafelbkassa](https://t.me/surafelbkassa)
 - LinkedIn: [Surafel Belachew](https://linkedin.com/in/surafel-belachew-1035772a6)
